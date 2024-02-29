@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# trySimpleDapp
-=======
 # simpleDAPPz
 - Description: SimpleDappz created to make it easier for beginners who are entering the blockchain ecosystem for the first time 😊. It's applications just for create one sentence of quote or note.
 - Demo: soon.
@@ -33,4 +30,3 @@
 - Cheers 🍻
 
 Feel's free to contribute in my code 😉
->>>>>>> 14d2d48 (first upload)

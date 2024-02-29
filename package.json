@@ -1,23 +1,19 @@
 {
   "name": "trySimpleDapp",
   "version": "0.0.1",
-  "description": "Testing my simple dapp.",
+  "description": "Just try to deploy simple dappz.",
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
   },
-  "author": "Fahmi",
-  "license": "MIT",
+  "author": "Fahmi Idris",
+  "license": "ISC",
   "dependencies": {
-    "ethers": "5.7.2",
-    "express": "^4.18.2"
+    "simpledappz": "^1.0.1"
   },
-  "devDependencies": {
-    "webpack": "^5.90.3",
-    "webpack-cli": "^5.1.4"
-  },
+  
   "repository": {
-      "type": "git",
-      "url" : "https://github.com/fahmisme/trySimpleDapp.git"
+    "type": "git",
+    "url": "https://github.com/fahmisme/trySimpleDapp.git"
   }
 }
