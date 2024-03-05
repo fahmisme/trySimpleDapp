@@ -1,6 +1,6 @@
 {
   "name": "trysimpledapp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Just try to deploy simple dappz.",
   "main": "index.js",
   "scripts": {
