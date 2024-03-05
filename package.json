@@ -9,7 +9,7 @@
   "author": "Fahmi Idris",
   "license": "ISC",
   "dependencies": {
-    "simpledappz": "^1.0.1"
+    "simpledappz": "^1.0.6"
   },
   
   "repository": {
